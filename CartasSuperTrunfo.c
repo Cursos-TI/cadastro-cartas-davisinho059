@@ -93,5 +93,23 @@ int main() {
     printf("PIB: %.2f bilhoes de reais\n", pib2);
     printf("Numero de Pontos Turisticos: %d\n", pontos2);
 
+    //diferença das cartas 01,diferença da carta 02
+  //Carta 1:
+//Estado: A
+//Codigo: A01
+//Nome da Cidade: Parnaiba
+//Populacao: 162.159
+//Area: 435.57 km2
+//PIB: 2.60 bilhoes de reais
+//Numero de Pontos Turisticos: 15
+
+//Carta 2:
+//Estado: B
+//Codigo: B02
+//Nome da Cidade: Rio Branco
+//Populacao: 387.850
+//Area: 8836.00 km2
+//PIB: 26.00 bilhoes de reais
+//Numero de Pontos Turisticos: 15
     return 0;
 }
